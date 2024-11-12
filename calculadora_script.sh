@@ -1,6 +1,6 @@
 #!/bin/bash
 
-python3 /home/daniel/modulo1/linux/calculadora.py
+python3 calculadora.py
 
 primeiro_numero = input('Coloque o primeiro número AQUI>>> ')
 primeiro_numero = int(primeiro_numero) # Conversão de String para Inteiro
