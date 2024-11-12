@@ -1,0 +1,12 @@
+#COMANDOS PARA Alterar as permissões do arquivo para torná-lo executável:
+chmod +x calculadora.py
+chmod +x calculadora_script.sh
+
+
+#COMANDOS PARA Definir as permissões da seguinte maneira: apenas o proprietário com permissão de escrita e os outros com permissão de leitura:
+chmod 744 calculadora.py
+chmod 744 calculadora_script.sh
+
+
+#COMANDO PARA Executar o script da calculadora:
+./calculadora_script.sh
